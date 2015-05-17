@@ -1,0 +1,1 @@
+A set of no-hassle Wordpress backup scripts. Requires no configuration to use.
